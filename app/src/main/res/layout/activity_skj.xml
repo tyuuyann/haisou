@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:layout_width="match_parent"
+                                                   android:layout_height="match_parent"
+                                                   tools:context=".SkjActivity">
+    <Button
+            android:text="←"
+            android:layout_width="98dp"
+            android:layout_height="60dp" android:id="@+id/before" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+    <Button
+            android:text="→"
+            android:layout_width="102dp"
+            android:layout_height="60dp" android:id="@+id/after"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+    <ExpandableListView
+            android:layout_width="415dp"
+            android:layout_height="523dp"
+            tools:ignore="MissingConstraints" app:layout_constraintTop_toBottomOf="@+id/month"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            android:id="@+id/expandableList" app:layout_constraintVertical_bias="0.0"
+            app:layout_constraintHorizontal_bias="0.0"/>
+    <TextView
+            android:layout_width="176dp"
+            android:layout_height="20dp" android:id="@+id/year"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toStartOf="@+id/after"
+            app:layout_constraintStart_toEndOf="@+id/before" tools:text="YYYY年"/>
+    <TextView
+            android:layout_width="210dp"
+            android:layout_height="39dp" android:id="@+id/month"
+            app:layout_constraintEnd_toStartOf="@+id/after" app:layout_constraintStart_toEndOf="@+id/before"
+            app:layout_constraintTop_toBottomOf="@+id/year" tools:text="M月" android:gravity="center"
+            android:textSize="24sp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\20119260749def7b0e451686358ecbce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\581bfc1804464c4e5044c32bb8f22fe4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e191129153615458e756d41a7f57dbbd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\b00d9ab1c42f3ca773416bac2195df81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\266bfeb54f5a7dce7d92652a1a59e05e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e9b603fb464ba4e99c0201f7fa78ba5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\12b9939297ac53175a1393e58fafa3dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2e229ef587582aa2abe8ea00b7a3a625\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2d3264f5293b03ab4e0ff69b496e3289\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\475ef42953a162eb93b21ba24e6a729f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\f46b93cf861df78e54aa66de34b90fbb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\acf33b2f0eadeb6efa9518dd3ad7aa2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d260f25def2afb498ed239188023a1c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\53ccb2957d0001f2bed3dc1302c181a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\a253993d6204695cd79a936d717b3d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\0fae87a8beecd84eeec2dd0832c20326\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\42468c53a5aa01ee71fb605fce612975\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\3ec207b50a7629c844bf24af4cda16bf\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d086d340203abea1767d620adcae825b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bf59c60e4b67acaf3c2aea75ad1acc2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8d573904c15f42accae9ab5fc74cea89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\6790a4329ca3403915fbbb3430e3b1d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\867e5be0f38cfc4d2b8a3af7814a9f88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\23552568a2ef13699c9de29d32fed4d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bd12a565f2f80a5029832e83b28c7ae8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\1549daa7f51d452f3d563a1202b706e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fdb06b12198ba69233ddbde8a828c40f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:3:11-27
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:6:5-63:15
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\581bfc1804464c4e5044c32bb8f22fe4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\581bfc1804464c4e5044c32bb8f22fe4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\266bfeb54f5a7dce7d92652a1a59e05e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\266bfeb54f5a7dce7d92652a1a59e05e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\3ec207b50a7629c844bf24af4cda16bf\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\3ec207b50a7629c844bf24af4cda16bf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:10:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:11:9-69
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:13:6-15:67
+	android:value
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:15:10-65
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:14:10-55
+activity#sample.MainActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:17:5-23:16
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:17:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:18:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:21:23-70
+activity#sample.TopScreenActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:25:19-58
+activity#sample.MapActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:33:19-52
+activity#sample.CustListActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:41:19-57
+activity#sample.CustAddrActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:49:5-55:16
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:49:15-53
+activity#sample.SkjActivity
+ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:56:5-62:17
+	android:name
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml:56:15-48
+uses-sdk
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\20119260749def7b0e451686358ecbce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\20119260749def7b0e451686358ecbce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\581bfc1804464c4e5044c32bb8f22fe4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\581bfc1804464c4e5044c32bb8f22fe4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e191129153615458e756d41a7f57dbbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e191129153615458e756d41a7f57dbbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\b00d9ab1c42f3ca773416bac2195df81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\b00d9ab1c42f3ca773416bac2195df81\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\266bfeb54f5a7dce7d92652a1a59e05e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\266bfeb54f5a7dce7d92652a1a59e05e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e9b603fb464ba4e99c0201f7fa78ba5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\e9b603fb464ba4e99c0201f7fa78ba5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\12b9939297ac53175a1393e58fafa3dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\12b9939297ac53175a1393e58fafa3dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2e229ef587582aa2abe8ea00b7a3a625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2e229ef587582aa2abe8ea00b7a3a625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2d3264f5293b03ab4e0ff69b496e3289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\2d3264f5293b03ab4e0ff69b496e3289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\475ef42953a162eb93b21ba24e6a729f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\475ef42953a162eb93b21ba24e6a729f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\f46b93cf861df78e54aa66de34b90fbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\f46b93cf861df78e54aa66de34b90fbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\acf33b2f0eadeb6efa9518dd3ad7aa2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\acf33b2f0eadeb6efa9518dd3ad7aa2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d260f25def2afb498ed239188023a1c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d260f25def2afb498ed239188023a1c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\53ccb2957d0001f2bed3dc1302c181a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\53ccb2957d0001f2bed3dc1302c181a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\a253993d6204695cd79a936d717b3d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\a253993d6204695cd79a936d717b3d0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\0fae87a8beecd84eeec2dd0832c20326\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\0fae87a8beecd84eeec2dd0832c20326\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\9f287f29a5fed6d0f71cbdf53355ac54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\42468c53a5aa01ee71fb605fce612975\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\42468c53a5aa01ee71fb605fce612975\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\3ec207b50a7629c844bf24af4cda16bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\3ec207b50a7629c844bf24af4cda16bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d086d340203abea1767d620adcae825b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\d086d340203abea1767d620adcae825b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bf59c60e4b67acaf3c2aea75ad1acc2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bf59c60e4b67acaf3c2aea75ad1acc2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8d573904c15f42accae9ab5fc74cea89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8d573904c15f42accae9ab5fc74cea89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\6790a4329ca3403915fbbb3430e3b1d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\6790a4329ca3403915fbbb3430e3b1d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\867e5be0f38cfc4d2b8a3af7814a9f88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\867e5be0f38cfc4d2b8a3af7814a9f88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\23552568a2ef13699c9de29d32fed4d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\23552568a2ef13699c9de29d32fed4d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bd12a565f2f80a5029832e83b28c7ae8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\bd12a565f2f80a5029832e83b28c7ae8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\1549daa7f51d452f3d563a1202b706e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\1549daa7f51d452f3d563a1202b706e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fdb06b12198ba69233ddbde8a828c40f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fdb06b12198ba69233ddbde8a828c40f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koumo\IdeaProjects\haisou\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\8883479a749d2916b79559d542909586\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\64281fa9a89ec451240c64a2bf0f0eab\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\koumo\.gradle\caches\transforms-2\files-2.1\fcbebb92fe5e19c5c2ac382be0d715e4\AndroidManifest.xml:24:13-58

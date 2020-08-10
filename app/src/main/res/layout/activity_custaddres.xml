@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".CustAddrActivity">
+
+    <fragment
+            android:layout_width="match_parent"
+            android:layout_height="278dp"
+            android:id="@+id/mapFragment"
+            android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+    <TextView
+            android:id="@+id/cust_name"
+            android:layout_width="match_parent"
+            android:layout_height="44dp" android:textSize="24sp" tools:text="TEST"
+            android:gravity="center"/>
+    <TextView
+            android:id="@+id/cust_kana"
+            android:layout_width="match_parent"
+            android:layout_height="44dp" android:textSize="18sp" android:gravity="center" tools:text="test"/>
+    <TextView
+            android:id="@+id/cust_yubin"
+            android:layout_width="match_parent"
+            android:layout_height="36dp" tools:text="〒" android:gravity="center_vertical"/>
+    <TextView
+            android:id="@+id/cust_addr"
+            android:layout_width="match_parent"
+            android:layout_height="51dp" android:textSize="18sp" tools:text="Addres"/>
+    <TextView
+            android:id="@+id/cust_tel"
+            android:layout_width="match_parent"
+            android:layout_height="36dp" android:textSize="18sp" tools:text="Addres"/>
+    <TextView
+            android:id="@+id/cust_memo"
+            android:layout_width="match_parent"
+            android:layout_height="138dp" android:text="備考"/>
+</LinearLayout>

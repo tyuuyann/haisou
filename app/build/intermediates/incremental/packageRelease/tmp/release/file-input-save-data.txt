@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 16 23:27:32 JST 2020
+0.base=C\:\\Users\\koumo\\IdeaProjects\\haisou\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

@@ -1,0 +1,4 @@
+#Thu Jul 16 23:27:32 JST 2020
+base.0=C\:\\Users\\koumo\\IdeaProjects\\haisou\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+renamed.0=classes.dex
+path.0=classes.dex
